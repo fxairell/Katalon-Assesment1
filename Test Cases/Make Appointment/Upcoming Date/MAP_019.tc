@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with upcoming date in Hongkong Facility
+and choose Medicare Healthcare Program</description>
+   <name>MAP_019</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>841f0ed4-ff59-4abe-bce2-60b16ca81980</testCaseGuid>
+</TestCaseEntity>

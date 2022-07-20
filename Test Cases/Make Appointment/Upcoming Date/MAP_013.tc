@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with upcoming date in Hongkong Facility
+and apply for hospital readmission</description>
+   <name>MAP_013</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb6c8557-cebd-421e-95ad-091fdd356fe4</testCaseGuid>
+</TestCaseEntity>

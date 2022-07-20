@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify appointment history,
+after making invalid date appointment</description>
+   <name>CHT_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>57916fd3-02f3-43c4-bb07-c69283565d79</testCaseGuid>
+</TestCaseEntity>

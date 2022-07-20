@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with past date in Hongkong Facility</description>
+   <name>MAP_010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da031154-d08f-41e7-bbea-191f80dd190c</testCaseGuid>
+</TestCaseEntity>

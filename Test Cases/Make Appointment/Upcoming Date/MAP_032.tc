@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with upcoming date in Seoul Facility
+and choose None Healthcare Program</description>
+   <name>MAP_032</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0141e05-7008-40c1-a07a-de25a6bf248e</testCaseGuid>
+</TestCaseEntity>

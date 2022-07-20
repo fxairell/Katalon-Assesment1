@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with upcoming date in Seoul Facility
+and apply for hospital readmission</description>
+   <name>MAP_014</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8fa50292-1d62-4934-a27b-487e96fcab12</testCaseGuid>
+</TestCaseEntity>

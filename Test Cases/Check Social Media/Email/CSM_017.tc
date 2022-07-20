@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Email,
+after checking valid appointment</description>
+   <name>CSM_017</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29c421fd-8037-4bf7-87e7-8e307e52b4e3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+without date</description>
+   <name>MAP_003</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>58285682-b932-44f9-a657-3aa0e8050474</testCaseGuid>
+</TestCaseEntity>

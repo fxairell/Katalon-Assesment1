@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with upcoming date in Hongkong Facility
+and choose Medicaid Healthcare Program</description>
+   <name>MAP_025</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdbfa9e1-f72e-400e-8bcb-3f58133b16aa</testCaseGuid>
+</TestCaseEntity>

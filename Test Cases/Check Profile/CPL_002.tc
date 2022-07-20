@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify there is profile shown,
+after making valid appointment</description>
+   <name>CPL_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75e94780-57ca-4ec3-a892-c9787e00a6d1</testCaseGuid>
+</TestCaseEntity>

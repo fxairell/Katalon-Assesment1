@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Dribbble,
+after making valid appointment</description>
+   <name>CSM_012</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb568f39-8da2-4357-a919-e0fce082c4d2</testCaseGuid>
+</TestCaseEntity>

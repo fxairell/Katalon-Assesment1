@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login using Make Appointment button,
+with valid password and without username</description>
+   <name>LGN_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>798d36ea-7410-4c56-880d-f36e289ef2c5</testCaseGuid>
+</TestCaseEntity>

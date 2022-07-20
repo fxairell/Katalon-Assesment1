@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify login using Fading Bar button,
+with valid username and password</description>
+   <name>LGN_010</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ef85348-01ad-45d4-a5b5-462789ba9682</testCaseGuid>
+</TestCaseEntity>

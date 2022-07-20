@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify logging out,
+after checking valid appointment</description>
+   <name>LGT_004</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb1a96f7-eed2-416e-a2a5-8e38e45c77c6</testCaseGuid>
+</TestCaseEntity>

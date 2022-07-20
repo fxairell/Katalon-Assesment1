@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with past date in Tokyo Facility
+and choose Medicare Healthcare Program</description>
+   <name>MAP_021</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdf29d33-e1c5-443e-9057-56494e07f822</testCaseGuid>
+</TestCaseEntity>

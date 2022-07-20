@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Twitter,
+after checking valid appointment</description>
+   <name>CSM_019</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0c3ed025-42be-4b83-a9fc-afdc78bec715</testCaseGuid>
+</TestCaseEntity>

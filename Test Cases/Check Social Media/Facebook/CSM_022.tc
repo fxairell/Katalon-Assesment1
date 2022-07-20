@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Facebook,
+after checking invalid appointment</description>
+   <name>CSM_022</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf1b0a22-8c26-4af8-8d65-f4639807198c</testCaseGuid>
+</TestCaseEntity>

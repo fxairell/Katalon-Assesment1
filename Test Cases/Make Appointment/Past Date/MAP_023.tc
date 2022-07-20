@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with past date in Seoul Facility
+and choose Medicare Healthcare Program</description>
+   <name>MAP_023</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2f76b76b-b0f6-4a03-9375-fa5569d7b3f0</testCaseGuid>
+</TestCaseEntity>

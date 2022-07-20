@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Email,
+after logging in</description>
+   <name>CSM_005</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcbaf5a8-a1c1-49ce-8374-d6d9e16141c1</testCaseGuid>
+</TestCaseEntity>

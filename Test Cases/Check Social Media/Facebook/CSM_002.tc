@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Facebook</description>
+   <name>CSM_002</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef60f02f-4a00-418e-bb62-0bd26b8c12b1</testCaseGuid>
+</TestCaseEntity>

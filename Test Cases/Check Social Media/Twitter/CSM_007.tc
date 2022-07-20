@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Twitter,
+after logging in</description>
+   <name>CSM_007</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3196a9d4-ea1e-43bf-9541-5748a7f5e928</testCaseGuid>
+</TestCaseEntity>

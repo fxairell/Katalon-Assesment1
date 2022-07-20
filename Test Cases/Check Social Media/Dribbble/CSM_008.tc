@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify redirecting to Dribbble,
+after logging in</description>
+   <name>CSM_008</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e035cdc6-5552-46a6-be72-12d3abaec530</testCaseGuid>
+</TestCaseEntity>

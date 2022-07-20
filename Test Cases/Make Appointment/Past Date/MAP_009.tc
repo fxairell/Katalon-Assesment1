@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify making appointment,
+with past date in Tokyo Facility</description>
+   <name>MAP_009</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b66f6baf-a535-468e-8257-c83e90116c70</testCaseGuid>
+</TestCaseEntity>
